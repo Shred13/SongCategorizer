@@ -1,0 +1,12 @@
+Waay too long,6,9,0,6,6,6,7
+Right Size,6,9,0,6,6,6
+Just different,2,3,8,6,7,5
+A little different,3,6,8,1,9,0
+Co,mma,6,9,0,6,6,5
+Not an Int and after comma,M,9,10,6,6,5
+Short,1,3,4
+Not an int In general,1M,9,10,6,6,5
+Checking once again for errors,1,9,10,6,6M,5
+Check to see if it works after,1,9,10,6,6,5
+Double works,1.4,3,4,6,7,7
+Too High Number,11,3,5,6,2,8
